@@ -1,4 +1,4 @@
-# canil
+# API Rest
 NodeJS
 
 ### Requisitos globais:
